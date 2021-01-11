@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\Condinais\bin\Debug\netcoreapp3.1\Condinais.exe
+C:\Users\Desktop\Desktop\Condinais\bin\Debug\netcoreapp3.1\Condinais.deps.json
+C:\Users\Desktop\Desktop\Condinais\bin\Debug\netcoreapp3.1\Condinais.runtimeconfig.json
+C:\Users\Desktop\Desktop\Condinais\bin\Debug\netcoreapp3.1\Condinais.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\Condinais\bin\Debug\netcoreapp3.1\Condinais.dll
+C:\Users\Desktop\Desktop\Condinais\bin\Debug\netcoreapp3.1\Condinais.pdb
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.dll
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.pdb
+C:\Users\Desktop\Desktop\Condinais\obj\Debug\netcoreapp3.1\Condinais.genruntimeconfig.cache
